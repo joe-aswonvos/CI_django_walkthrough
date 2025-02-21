@@ -1,1 +1,1 @@
-web: gunicorn joe-aswonvos-hello-world.wsgi
+web: gunicorn my_project.wsgi
